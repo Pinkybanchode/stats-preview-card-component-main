@@ -14,6 +14,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Screenshot
 
 ![](./screenshot.jpg)
+MobileView()
+DesktopView()
 
 
 ### Links
@@ -31,6 +33,5 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Pinkybanchode](https://www.frontendmentor.io/profile/Pinkybanchode)
 
