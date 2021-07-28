@@ -14,8 +14,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Screenshot
 
 ![](./screenshot.jpg)
-DesktopView:[https://github.com/Pinkybanchode/stats-preview-card-component-main/blob/stats/screens/DesktopView.jpg]
-MobileView:[https://github.com/Pinkybanchode/stats-preview-card-component-main/blob/stats/screens/MobileView.jpg]
+- DesktopView:[https://github.com/Pinkybanchode/stats-preview-card-component-main/blob/stats/screens/DesktopView.jpg]
+- MobileView:[https://github.com/Pinkybanchode/stats-preview-card-component-main/blob/stats/screens/MobileView.jpg]
 
 
 ### Links
